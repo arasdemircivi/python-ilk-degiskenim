@@ -1,4 +1,5 @@
 ad='aras'
+soyad= 'demircivi'
 yas='15'
 sinif='9d'
 MAKSIMUM_PUAN='100'
@@ -6,3 +7,4 @@ print(ad)
 print(yas)
 print(sinif)
 print(MAKSIMUM_PUAN)
+print(f'benim adim {ad} soyadim {soyad}')
